@@ -1,8 +1,14 @@
 # WHITE-COLLAR
 ## Botiga de Quadres
 
+### Objectius
+* Protocol HTTP / REST
+* JPA
+* MySQL
+* jUnit & Unit Testing
+
 ### Descripció
-* Dissenyar i construir una API REST utilitzant bases de dades com a persistència
+> Dissenyar i construir una API REST utilitzant bases de dades com a persistència
 
 ### Nivell 1
 Tenim una franquicia de botiga de quadres il·legals que fa veure que ven collarets blancs, per això es diu “white collar”.   
